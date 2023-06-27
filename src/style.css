@@ -1,0 +1,18 @@
+:root{
+	background-color: burlywood;
+	display: flex;
+	justify-content: center;
+}
+
+#app{
+	background-color: beige;
+	width: 90vw;
+	height: 690px;
+	border: 5px solid black;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	gap: 30px;
+}
+
