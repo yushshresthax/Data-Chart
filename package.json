@@ -9,10 +9,13 @@
   },
   "dependencies": {
     "@nivo/radar": "^0.83.0",
+    "autoprefixer": "^10.4.14",
     "axios": "^1.4.0",
+    "postcss": "^8.4.24",
     "preact": "^10.13.1",
     "preact-iso": "^2.3.1",
-    "preact-render-to-string": "^6.1.0"
+    "preact-render-to-string": "^6.1.0",
+    "tailwindcss": "^3.3.2"
   },
   "devDependencies": {
     "@preact/preset-vite": "^2.5.0",
